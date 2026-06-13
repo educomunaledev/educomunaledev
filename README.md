@@ -1,13 +1,8 @@
 <h1 align="center">Olá, eu sou o Eduardo Comunale</h1>
 <h3 align="center">Farmacêutico apaixonado por tecnologia, explorando o mundo da ciência de dados e programação.</h3>
 
-- 🌱 Atualmente estou aprendendo **SQL e Power BI**
-
-- 👥 Também estou compartilhando conteúdo no Linkedin [Linkedin](https://www.linkedin.com/in/eduardo-comunale-3454b9199/)
-
-- 💬 Me pergunte sobre **Python, R, Excell, Sheets**
-
-- 📫 Você me acha através do email **edutristaocomunale@gmail.com**
+Também estou compartilhando conteúdo no Linkedin [Linkedin](https://www.linkedin.com/in/eduardo-comunale-3454b9199/)
+Você me acha através do email **edutristaocomunale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
