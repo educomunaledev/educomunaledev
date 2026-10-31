@@ -1,6 +1,6 @@
-Olá, eu sou o Edu,
+Olá, eu sou o Edu.
 Também estou compartilhando conteúdo no Linkedin [Linkedin](https://www.linkedin.com/in/eduardo-comunale-3454b9199/)
-Você me acha através do email **edutristaocomunale@gmail.com**
+Você pode me achar através do email **edutristaocomunale@gmail.com**
 
 <!---
 educomunaledev/educomunaledev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
