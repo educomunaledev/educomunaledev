@@ -1,4 +1,5 @@
 Olá, eu sou o Edu.
+
 Também estou compartilhando conteúdo no [Linkedin](https://www.linkedin.com/in/eduardo-comunale-3454b9199/)
 ou você pode me achar através do email **edutristaocomunale@gmail.com** :)
 
